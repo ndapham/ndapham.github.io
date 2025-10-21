@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Anh
-middle_name:
+title: Danny Pham # the website title (if blank, full name will be used instead)
+first_name: Nguyen Duc Anh
+middle_name: 
 last_name: Pham
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
